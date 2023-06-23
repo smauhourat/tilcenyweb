@@ -381,6 +381,20 @@ h6 {
   right: 0;
 }
 
+#hero .logo {
+  margin: 0;
+  font-size: 88px;
+  font-weight: 700;
+  color: #fff;
+}
+
+#hero .logo-point {
+  margin: 0;
+  font-size: 88px;
+  font-weight: 700;
+  color: #e03a3c;
+}
+
 #hero h1 {
   margin: 0;
   font-size: 48px;
@@ -418,6 +432,14 @@ h6 {
   #hero {
     text-align: center;
     padding-top: 58px;
+  }
+
+  #hero .logo {
+    font-size: 68px;
+  }
+
+  #hero .logo-point {
+    font-size: 68px;
   }
 
   #hero h1 {
